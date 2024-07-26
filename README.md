@@ -1,8 +1,4 @@
 
-Tata 1mg
-
-We have cloned this website using Html CSS and JavaScript.
-
 To checkout the website please click on the link below
 -------------------------------------------------------
 
